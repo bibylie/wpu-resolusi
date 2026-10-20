@@ -1,0 +1,4 @@
+wpu resolusi
+- konsisten membuat konten video
+- membuat platform untuk pengelolaan video
+- membuat forum diskusi
