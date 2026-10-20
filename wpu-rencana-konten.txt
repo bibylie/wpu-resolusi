@@ -3,7 +3,10 @@ WPU RENCANA KONTEN
 - video javascript
   * es6
   * Framework javascript
+    ^ Vue
 - stuktur data dasar
 - video php framework
+  ^ Laravel
 - interview
 - vlog
+- python
