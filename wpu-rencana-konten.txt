@@ -3,6 +3,7 @@ WPU RENCANA KONTEN
 - video javascript
   * es6
   * Framework javascript
+    ^ Angular
     ^ Vue
     ^ react
 - stuktur data dasar
